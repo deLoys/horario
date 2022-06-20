@@ -1,0 +1,35 @@
+
+table{
+	border:3px solid black; 
+	
+font-size: 22px;
+	
+	
+}
+ table td{
+   border:3px solid black ;
+   padding:27px;
+	 
+ }
+ table tr:hover{
+	
+	 background:chartreuse; 
+ }
+ table td:hover{
+	background: linear-gradient(to right, rgb(0, 255, 234), rgb(0, 255, 55), rgb(0, 102, 255), rgb(0, 51, 128), rgb(255, 0, 149));
+ }
+
+td{
+	height: 100%;
+}
+ .uno{
+	 
+
+	 background: red;
+	 height: 35%;
+ }
+
+
+ p{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
